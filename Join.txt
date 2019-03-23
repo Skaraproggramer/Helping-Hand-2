@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Join US | Scouting Movement for Youth Development </title>
+		<link rel="icon" href="bsp.png" type="image/png">
+		<link rel="stylesheet" type='text/css' href="Join.css">
+	</head>
+
+	<body>    
+		<div class="navbar">
+			<table>
+				<tr>
+					<td><a href = "home.html"><img src = "bsp.png" height = "90px" style = "float:left"></a></td>
+					<td><br><br><br> <font style = "font-family:font4;" color = "white"> <a class="ex2 ex1" href = "index.html" style = "text-decoration:none;float:left"> HOME </a> </font>
+					<font style = "font-family:font4;" color = "white"> <a class="ex2 ex1" href = "Activities.html" style = "text-decoration:none;float:left"> ACTIVITIES </a></font>
+					<font style = "font-family:font4;" color = "white"> <a class="ex2 ex1" href = "Join.html" style = "text-decoration:none;float:left"> JOIN US </a></font></td>
+				</tr>
+			</table>
+		</div>
+		
+		<br> <br>
+    
+		<div class = "crop">
+			<img src = "bs.jpg">
+		</div>
+
+		<div class = "head">&nbsp;JOIN US </div>
+    
+		<div class="row">
+			<div class="leftcolumn">
+				<div class = "card">
+					<p align = "justify" style = "font-family:font13">
+					<font size = "3">
+					For any inquiries or problems, please contact us on these following details:<br>
+					<br><i class="fa fa-phone"></i>&nbsp; Phone number: <b>+639123456789</b>
+					<br><i class="fa fa-phone"></i>&nbsp; Telephone number: <b>(63 82) 221-1233</b>
+					<br><i class="fa fa-fax"></i>&nbsp; Fax number: <b>(63 82) 225-1234 </b>
+					<br><i class="fa fa-envelope-o"></i>&nbsp; E-mail address: <b>bookings@gloriouspointhotel.com</b> <br><br>
+					Or visit us at:<br>
+					<i class="fa fa-road"></i>&nbsp; Quimpo Boulevard, Davao City, 8000  (few meters away from SM Mall of Davao, about 35 minutes from F. Bangoy Int'l Airport).<br><br>
+					Or, visit us at our social media accounts:<br>
+					<i class="fa fa-facebook-square"></i>&nbsp; Facebook: <b>Glorious Point Hotel</b><br>
+					<i class="fa fa-twitter-square"></i>&nbsp; Twitter: <b>@gloriouspointhotel</b><br><br>
+					Or, fill up this form below, and we will respond to it as soon as possible! Thank you.<br><br>
+					</font>
+					</p> 
+					<br>
+				</div>
+			</div>
+ 
+			<div class="rightcolumn">
+				<div class="card">
+					<p style = "font-family:font13"><CENTER><font size = "6"><b>VISION</b><br></font></CENTER></p>
+					<br>
+					<hr>
+					<p style = "font-family:font13"><font size = "4"><center>
+					<br> Foremost in preparing the youth to
+					<br> becoming agents of change in 
+					<br> communites, guided by the
+					<br> Scout Oath and Law</font></center>
+					</p>
+				</div>
+	
+				<div class="card">
+					<p style = "font-family:font13"><CENTER><font size = "6"><b>MISSION</b><br></font></CENTER></p>
+					<br>
+					<hr>
+					<p style = "font-family:font13"><font size = "4"><center>
+					<br> To help the youth develop values
+					<br> and acquire competencies to become
+					<br> responsible citizens and capable
+					<br> leaders anchored on the 
+					<br> Scout Oath and Law</font></center>
+					</p>
+				</div>
+	
+				<div class="card">
+					<p style = "font-family:font13"><CENTER><font size = "6"><b>SCOUT OATH</b><br></font></CENTER></p>
+					<br>
+					<hr>
+					<p style = "font-family:font13"><font size = "4"><center>
+					<br> On my honor, I will do my best to 
+					<br> do my duty, to God and my country, 
+					<br> to the Republic of the Philippines and
+					<br> to obey the Scout Law
+					<br> to help other people at all times,
+					<br> to keep myself physically strong, mentally awake and morally straight</font></center>
+					</p>
+				</div>
+	
+				<div class="card">
+					<p style = "font-family:font13"><CENTER><font size = "6"><b>SCOUT LAW</b><br></font></CENTER></p>
+					<br>
+					<hr>
+					<p style = "font-family:font13"><font size = "4"><center>
+					<br> A Scout is:
+					<br> Trusthworthy
+					<br> Loyal
+					<br> Helpful
+					<br> Friendly
+					<br> Courteous
+					<br> Kind
+					<br> Obedient
+					<br> Cheerful
+					<br> Thrifty
+					<br> Brave 
+					<br> Clean 
+					<br> Reverent</font></center>
+					</p>
+				</div>
+    
+			</div>
+		</div>
+
+		<div class = "footer">
+			Copyright 2019 © Scouting Movement for Youth Development. All Rights Reserved.
+			<img src = "icons/tw.png" style = "float:right">
+			<img src = "icons/fb.png" style = "float:right">
+
+			<font style = "float:right">Connect with us: &nbsp;</font>
+		</div>
+
+	</body>
+</html>

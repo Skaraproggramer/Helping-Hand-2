@@ -1,0 +1,413 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Home | Glorious Point Hotel </title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="fontawesome-all.css">
+<style>
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+    
+ .navbar {
+  overflow: hidden;
+  background-color: #000;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  color: white;
+}
+
+.navbar a {
+  display: block;
+  color: #000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  color: white;
+}
+
+@font-face {
+        font-family: font13;
+        src: url('font/MSP.otf');
+    }
+    
+@font-face {
+        font-family: font1;
+        src: url('font/axis.otf');
+    }
+
+@font-face {
+    font-family: font4;
+    src: url('font/COBIT.otf');
+}
+
+a.ex2:hover, 
+    a.ex2:active {font-size: 120%;}
+    
+a.ex1:hover, 
+    a.ex2.ex1:active {color: gold;}
+
+    
+.crop {
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+}
+
+.crop img {
+    margin: -200px 0 0 -100px;
+}
+
+.head {
+    margin: auto;
+    padding: 10px;
+	background-color: #111;
+	height: 4.9%;
+	font-family: 'font4';
+	font-size: 20px;
+  display: block;
+  text-align: left;
+  color: #f2f2f2;
+}
+    
+.foot {
+    margin: auto;
+    padding: 10px;
+	background-color: #111;
+	height: 4.9%;
+	font-family: 'font1';
+	font-size: 15px;
+  display: block;
+  text-align: left;
+  color: #f2f2f2;
+}
+
+select[type=text] {
+    width: 20%;
+    padding: 4px 9px;
+    margin: 2px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+    
+select[type=text]:focus {
+    border: 3px solid goldenrod;
+}
+
+.bg {
+    width: 75%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-left: 70px;
+}
+    
+.card {
+     background-color: #fff;
+     padding: 20px;
+     margin-top: 20px;
+     color: black;
+}
+    
+.leftcolumn {   
+    float: left;
+    width: 75%;
+}
+
+.rightcolumn {
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+}
+    
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid gold;
+}
+
+.button1:hover {
+    background-color: darkgoldenrod;
+    color: white;
+}
+    
+</style>
+</head>
+<body>
+    
+<div class="navbar">
+    <table>
+    <tr><td><a href = "home.html"><img src = "logo.png" height = "90px" style = "float:left"></a></td>
+        <td><br><br><br> <font style = "font-family:font4;" color = "white"> <a class="ex2 ex1" href = "home.html" style = "text-decoration:none;float:left"> HOME </a> </font>
+        <font style = "font-family:font4;" color = "white"> <a class="ex2 ex1" href = "services.html" style = "text-decoration:none;float:left"> SERVICES </a></font>
+        <font style = "font-family:font4;" color = "white"> <a class="ex2 ex1" href = "reserve.html" style = "text-decoration:none;float:left"> RESERVATIONS </a></font>
+        <font style = "font-family:font4;" color = "white"> <a class="ex2 ex1" href = "rooms.html" style = "text-decoration:none;float:left"> HOTEL ROOMS & SUITES </a></font>
+        <font style = "font-family:font4;" color = "white"> <a class="ex2 ex1" href = "contact.html" style = "text-decoration:none;float:left"> CONTACT US </a></font>
+        <font style = "font-family:font4;" color = "white"> <a class="ex2 ex1" href = "gallery.html" style = "text-decoration:none;float:left"> GALLERY </a></font></td></tr>
+    </table>
+</div>
+    
+<br> <br>
+    
+<div class = "crop">
+    <img src = "slideshow/home5.jpg">
+</div>
+
+<div class = "head">
+&nbsp;HOME
+</div>
+    
+<div class="row">
+<div class="leftcolumn">
+<div class = "card">
+<center>
+<img src = "gallery/gal1.jpg" height = "200">
+<img src = "gallery/gal2.jpg" height = "200">
+</center>
+<br>
+<p align = "justify" style = "font-family:font13">
+<font size = "3">
+Only one and half hours by flight from Manila, the city of Davao is sure to become your next ‘must-visit’ destination, and who could be a better host than the Glorious Point Hotel with its unique blend of Western comforts and Asian hospitality!    
+<br><br>
+Standing in the heart of Davao’s shopping and business district, the Glorious Point Hotel is the ideal home base for your visit to Davao City. Be greeted by the courteous staff in an ambiance that is warm and friendly. This is the perfect place for your business meetings and personal celebrations. 
+<br><br>
+Our guestrooms feature modern designs and present an atmosphere conducive to rest. Retreat to any of our rooms and suites, which are elegant realisations of comfort, warmth and space. All the rooms and suites in Glorious Point Hotel are equipped with broadband internet and other amenities befitting a business traveller.
+<br><br>
+Live with us as your home away from home. Reinvigorate yourself in the spa or slip into the swimming pool. Keep in shape at our fitness centre when you are staying in Glorious Point Hotel. Dine with us and savour our famous culinary favourites.
+<br><br>
+Click <a href = "rooms.html"  style = "text-decoration:none;color:black"><b>here</b></a> to look for our offered rooms and suites. For Cabana, Specialty and Presidential Suite reservations, please contact us directly for your reservations.
+</font>
+</p> 
+
+<br>
+
+<div class = "bg">
+<form align = "center">
+    <font style = "font-family:font13"><b>BOOK WITH US!</b></font>
+    <br><br>
+    <font style = "font-family:font13"><i class="fa fa-bed"></i>&nbsp; ROOM / SUITE TYPE: </font> <br>
+<select type="text" id = "rooms" name = "rooms">
+<option>--</option>
+<option>Superior Room</option>
+<option>Deluxe Room</option>
+<option>Premiere Room</option>
+<option>Cabana Superior Room</option>
+<option>Cabana Deluxe Room</option>
+<option>Deluxe Suite</option>
+<option>Cabana Suite</option>
+<option>Specialty Suite</option>
+<option>Presidential Suite</option>
+</select>
+    
+<br><br>
+    <font style = "font-family:font13"> <i class="fa fa-calendar"></i>&nbsp; CHECK IN DATE: </font> <br>
+<select type="text" id = "month" name = "month">
+<option>--</option>
+<option>January</option>
+<option>February</option>
+<option>March</option>
+<option>April</option>
+<option>May</option>
+<option>June</option>
+<option>July</option>
+<option>August</option>
+<option>September</option>
+<option>October</option>
+<option>November</option>
+<option>December</option>
+</select>
+
+<select type="text" id = "day" name = "day">
+<option>--</option>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
+<option>7</option>
+<option>8</option>
+<option>9</option>
+<option>10</option>
+<option>11</option>
+<option>12</option>
+<option>13</option>
+<option>14</option>
+<option>15</option>
+<option>16</option>
+<option>17</option>
+<option>18</option>
+<option>19</option>
+<option>20</option>
+<option>21</option>
+<option>22</option>
+<option>23</option>
+<option>24</option>
+<option>25</option>
+<option>26</option>
+<option>27</option>
+<option>28</option>
+<option>29</option>
+<option>30</option>
+<option>31</option>
+</select>
+    
+<select type="text" id = "year" name = "year">
+    <option>--</option>
+    <option>2018</option>
+    <option>2019</option>
+</select>
+
+<br><br>
+    <font style = "font-family:font13"> <i class="fa fa-calendar"></i>&nbsp; CHECK OUT DATE: </font> <br>
+<select type="text" id = "month" name = "month">
+<option>--</option>
+<option>January</option>
+<option>February</option>
+<option>March</option>
+<option>April</option>
+<option>May</option>
+<option>June</option>
+<option>July</option>
+<option>August</option>
+<option>September</option>
+<option>October</option>
+<option>November</option>
+<option>December</option>
+</select>
+
+<select type="text" id = "day" name = "day">
+<option>--</option>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
+<option>7</option>
+<option>8</option>
+<option>9</option>
+<option>10</option>
+<option>11</option>
+<option>12</option>
+<option>13</option>
+<option>14</option>
+<option>15</option>
+<option>16</option>
+<option>17</option>
+<option>18</option>
+<option>19</option>
+<option>20</option>
+<option>21</option>
+<option>22</option>
+<option>23</option>
+<option>24</option>
+<option>25</option>
+<option>26</option>
+<option>27</option>
+<option>28</option>
+<option>29</option>
+<option>30</option>
+<option>31</option>
+</select>
+    
+<select type="text" id = "year" name = "year">
+    <option>--</option>
+    <option>2018</option>
+    <option>2019</option>
+</select>
+    
+<br><br>
+  <font style = "font-family:font13"><i class="fa fa-user"></i>&nbsp; NUMBER OF ADULTS: </font> <br> 
+<select type="text" id = "adults" name = "adults">
+<option>--</option>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
+<option>7</option>
+<option>8</option>
+<option>9</option>
+<option>10</option>
+</select>
+
+<br><br>
+    <font style = "font-family:font13"><i class="fa fa-user"></i>&nbsp; NUMBER OF KIDS: </font> <br>
+<select type="text" id = "kids" name = "kids">
+<option>--</option>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
+<option>7</option>
+<option>8</option>
+<option>9</option>
+<option>10</option>
+</select>
+    
+<br><br>
+    <a href = "reserve.html" class="button button1"><font style = "font-family:font13">SUBMIT</font></a>
+<br>
+<br>
+</form>
+    </div>
+    </div>
+    </div>
+
+
+<div class="rightcolumn">
+    <div class="card">
+    <p style = "font-family:font13"><font size = "3"><b>Glorious Point Hotel</b><br></font>
+    Quimpo Boulevard, Davao City, 8000
+    </p>
+    <br>
+    <hr>
+    <p style = "font-family:font13"><font size = "3">
+        <br> Tel. (63 82) 221-1233
+        <br> Fax. (63 82) 225-1234 
+        <br> bookings@gloriouspointhotel.com</font></p>
+    </div>
+    <div class="card">
+        <p style = "font-family:font13" align = "justify"><font size = "3"><b>SPECIAL OFFERS:</b><br><br><b>15% DISCOUNT ON ANY ORDERS!</b><br><br>For a limited time, get 15% discount on any orders at the Yellow Grove Cafe & Bistro and at The Renaissance Bar this Valentines season when you check in this week!<br><br><b>0% INTEREST!</b><br><br>We are now accepting 0% interest on all major credit cards! <br><br> <b>ADVANCE PURCHASE</b> <br><br> Make your room reservation at least 30 days in advance and enjoy 10% savings with our Advance Purchase offer.<br><br><b>LAST MINUTE DEAL</b><br><br>Get Php 200 off the best available rates on your last minute booking. Offer valid 3 days prior your preferred check-in date. Limited rooms only. <br><br>For inquiries, please call us at (63 82) 221-1233 or e-mail us at bookings@gloriouspointhotel.com for more information regarding about these offers.</font></p>
+    </div>
+</div>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div class = "foot">
+Copyright 2018 © Glorious Point Hotel. All Rights Reserved.
+
+<img src = "icons/tw.png" style = "float:right">
+<img src = "icons/fb.png" style = "float:right">
+
+<font style = "float:right">
+Connect with us: &nbsp;
+</font>
+</div>
+
+</body>
+</html>

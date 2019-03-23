@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HH | Helping Hand </title>
+		<link rel="icon" href="icon.png" type="image/png">
+		<link rel="stylesheet" type='text/css' href="CSCS.css">
+	</head>
+<body>
+
+<div class="navbar">
+    <table>
+    <tr><td><a href = "home.html"><img src = "bsp.png" height = "90px" style = "float:left"></a></td>
+        <td><br><br><br> <font style = "font-family:font4;" color = "white"> <a class="ex2 ex1" href = "index.html" style = "text-decoration:none;float:left"> HOME </a> </font>
+        <font style = "font-family:font4;" color = "white"> <a class="ex2 ex1" href = "Activities.html" style = "text-decoration:none;float:left"> ACTIVITIES </a></font>
+        <font style = "font-family:font4;" color = "white"> <a class="ex2 ex1" href = "Join.html" style = "text-decoration:none;float:left"> JOIN US </a></font>
+       </td></tr>
+    </table>
+</div>
+    
+<br> <br>
+    
+<div class = "crop">
+    <img src = "slideshow/home1.jpg">
+</div>
+
+<div class = "head">
+&nbsp; ACTIVITIES
+</div>
+    
+<div class="row">
+<div class="leftcolumn">
+<div class = "card">
+<img src = "amenities/amenity1.jpg" height = "250px" style = "float:left">
+<div class = "bg">
+<p align = "justify" style = "font-family:font13;">
+    <font size = "5" style = "margin-left:10px"> Tree Planting </font>
+    <br><br>
+<font size = "3" style = "margin-left:10px">
+Have a wonderful time eating in our very own stylistic and friendly &nbsp;&nbsp; restaurant.
+    <br><br>
+</font>
+<font size = "3" style = "margin-left:10px">
+    Our restaurant offer a wide range of delicacies offered specially by &nbsp;&nbsp;our chefs on the house. Specialties on the house includes from our &nbsp;&nbsp;native Filipino cuisines to Western cuisines. "Pinalami-ang Sinigang &nbsp;&nbsp;na Hipon" is a one true dish that you don't want to miss.
+</font>
+</p>
+</div>
+<br><br>
+<hr>
+<br>
+<img src = "amenities/amenity2.jpg" height = "294px" style = "float:left">
+<div class = "bg">
+<p align = "justify" style = "font-family:font13">
+<font size = "5" style = "margin-left:10px"> Outreach Programs </font>
+<br><br>
+<font size = "3" style = "margin-left:10px">
+Glorious Point offers the Titania Fitness Center to keep you in shape &nbsp;&nbsp;&nbsp;and fit.
+</font>
+<br><br>
+<font size = "3" style = "margin-left:10px">
+The Titania Fitness Center offers a wide range of gym equipments &nbsp;&nbsp;ready to use anytime when you enter the fitness center. The gym is &nbsp;open from 9 AM to 9 PM everyday. The Titania Fitness Center &nbsp;&nbsp;welcomes you to be fit and in shape outside your home. 
+</font>
+<br>
+</p>
+</div>
+<br><br><br><br>
+<hr>
+<br>
+<img src = "amenities/amenity3.jpg" height = "221px" style = "float:left">
+<div class = "bg">
+<p align = "justify" style = "font-family:font13">
+<font size = "5" style = "margin-left:10px"> Emergency Response Trainings </font>
+<br><br>	
+<font size = "3" style = "margin-left:10px">
+    The Renaissance Bar offers the best drinks in town. From scotch &nbsp;&nbsp;whiskeys to vodkas, this is the perfect place for you.
+    <br><br>
+</font>
+<font size = "3" style = "margin-left:10px">  
+We are available for certain events! Contact us through our e-mail imong mama stars
+ehehehehe
+
+eheheheheeh
+eheheheheeheh
+eheheheheeheheh
+eheheheheeheheheh
+eheheheheeheheheh &nbsp;&nbsp;for reservations.
+</font>
+<br>
+</p>
+</div>
+<br><br>
+<hr>
+<br>
+<img src = "amenities/amenity9.jpg" height = "213px" style = "float:left">
+<div class = "bg">
+<p align = "justify" style = "font-family:font13">
+<font size = "5" style = "margin-left:10px"> Community Service </font>
+<br><br>
+<font size = "3" style = "margin-left:10px">
+    The Pirate's Cove is the one and only special arcade room in all &nbsp;&nbsp;hotels in Davao City. We offer arcade cabinets from classic hits like &nbsp;&nbsp;Pac-Man, and other modern arcade games. This is a place you don't &nbsp;&nbsp;want to miss.
+    <br>
+</font>
+<br>
+</p>
+</div>
+<br><br>
+<hr>
+<br>
+<img src = "slideshow/home3.jpg" height = "314px" style = "float:left">
+<div class = "bg">
+<p align = "justify" style = "font-family:font13">
+<font size = "5" style = "margin-left:10px"> Camping </font>
+<br><br>
+<font size = "3" style = "margin-left:10px">
+    Located at the highest point of the hotel, The Garden of Rosa is a &nbsp;&nbsp;one special place. Enjoy a relaxing swim on the grandest pool the &nbsp;&nbsp;hotel has to offer. The area has a beautiful garden that will help you &nbsp;&nbsp;calm your mind.
+</font>
+    <br>
+    <br>
+<font size = "3" style = "margin-left:10px">
+    Take time to look at the overview of the Metro Davao's skyline &nbsp;&nbsp;while your in the area, especially on the time where the sun sets. 
+    </font>
+<br>
+</p>
+</div>
+<br><br><br><br><br>
+<hr>
+<br>
+<img src = "amenities/amenity8.jpg" height = "265px" style = "float:left">
+<div class = "bg">
+<p align = "justify" style = "font-family:font13">
+<font size = "5" style = "margin-left:10px"> Cleanup Drives </font>
+<br><br>
+<font size = "3" style = "margin-left:10px">    
+    Named after the indigenous group who were the first to set its &nbsp;position on Davao City, this ballroom is available to cater 210 &nbsp;&nbsp;people for different occasions to be held inside the ballroom. This is &nbsp;&nbsp;one of the biggest ballroom in Davao City ever to be established.
+</font>
+<br><br>
+<font size = "3" style = "margin-left:10px">  
+We are available for certain events! Contact us through our e-mail &nbsp;&nbsp;for reservations.
+</font>
+<br>
+</p>  
+</div>
+</div>
+</div>
+
+
+<div class="rightcolumn">
+    <div class="card">
+    <p style = "font-family:font13"><CENTER><font size = "6"><b>VISION</b><br></font></CENTER>
+    </p>
+    <br>
+    <hr>
+    <p style = "font-family:font13"><font size = "4"><center>
+        <br> Foremost in preparing the youth to
+        <br> becoming agents of change in 
+		<br> communites, guided by the
+        <br> Scout Oath and Law</font>
+	</center>
+	</p>
+    </div>
+	
+	<div class="card">
+    <p style = "font-family:font13"><CENTER><font size = "6"><b>MISSION</b><br></font></CENTER>
+    </p>
+    <br>
+    <hr>
+    <p style = "font-family:font13"><font size = "4"><center>
+        <br> To help the youth develop values
+        <br> and acquire competencies to become
+		<br> responsible citizens and capable
+        <br> leaders anchored on the 
+		<br> Scout Oath and Law</font>
+	</center>
+	</p>
+    </div>
+	
+	<div class="card">
+    <p style = "font-family:font13"><CENTER><font size = "6"><b>SCOUT OATH</b><br></font></CENTER>
+    </p>
+    <br>
+    <hr>
+    <p style = "font-family:font13"><font size = "4"><center>
+        <br> On my honor, I will do my best to 
+        <br> do my duty, to God and my country, 
+		<br> to the Republic of the Philippines and
+        <br> to obey the Scout Law
+		<br> to help other people at all times,
+		<br> to keep myself physically strong, mentally awake and morally straight</font>
+	</center>
+	</p>
+    </div>
+	
+	<div class="card">
+    <p style = "font-family:font13"><CENTER><font size = "6"><b>SCOUT LAW</b><br></font></CENTER>
+    </p>
+    <br>
+    <hr>
+    <p style = "font-family:font13"><font size = "4"><center>
+        <br> A Scout is:
+        <br> Trusthworthy
+		<br> Loyal
+        <br> Helpful
+		<br> Friendly
+		<br> Courteous
+		<br> Kind
+		<br> Obedient
+		<br> Cheerful
+		<br> Thrifty
+		<br> Brave 
+		<br> Clean 
+		<br> Reverent</font>
+	</center>
+	</p>
+    </div>
+    
+</div>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div class = "foot">
+Copyright 2019 © Scouting Movement. All Rights Reserved.
+
+<img src = "icons/tw.png" style = "float:right">
+<img src = "icons/fb.png" style = "float:right">
+
+<font style = "float:right">
+Connect with us: &nbsp;
+</font>
+</div>
+</body>
+</html>
